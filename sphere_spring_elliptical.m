@@ -56,10 +56,12 @@ V = 1/2*k*r.^2;                 % Potential energy              [J]
 %% Results
 
 figure
-set(gcf,'Position',[270   140   640     360  ])
+set(gcf,'Position',[50 50 1280 720]) % YouTube: 720p
+% set(gcf,'Position',[50 50 854 480]) % YouTube: 480p
+% set(gcf,'Position',[50 50 864 1080]) % Instagram
 
 % Create and open video writer object
-v = VideoWriter('sphere_spring_elliptical.avi');
+v = VideoWriter('sphere_spring_elliptical.mp4','MPEG-4');
 v.Quality = 100;
 open(v);
 
