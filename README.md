@@ -5,7 +5,7 @@ Simulation and animation of a sphere of mass m attached to a spring of constant 
 SAMPLE PROBLEM 13.8 - Beer, F.P., Johnston Jr, E.R., Mazurek, D.F., Cornwell, P.J., 2013. Vector mechanics for engineers: Statics and Dynamics. McGraw-Hill.
 
 
-Watch animation on YouTube: https://youtu.be/qE2322ADnfM
+Watch the animation on YouTube: https://youtu.be/qE2322ADnfM
 
 
 ![Logo](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/69087746-eb99-4c1d-96e6-1e2921b999db/55863e7a-1e97-4111-9778-820537b93e71/images/1620140752.png)
